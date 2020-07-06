@@ -1,6 +1,7 @@
 package RunningSum;
 
 public class RunningSum {
+    // test
     public int[] runningSum(int[] nums) {
         int sum = 0;
         int[] result = new int[nums.length];
