@@ -1,5 +1,5 @@
 package RunningSum;
-// test
+// test code review
 public class RunningSum {
 	public int[] runningSum(int[] nums) {
         int sum = 0;
